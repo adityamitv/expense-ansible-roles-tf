@@ -1,0 +1,6 @@
+login_user: root
+login_host: db.devopshub.shop
+login_password: ExpenseApp@1
+DB_HOST: db.devopshub.shop
+app_location: /app
+component: backend
